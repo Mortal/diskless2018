@@ -15,7 +15,7 @@ System requirements:
 * Secure boot disabled
 
 "Fast startup" in Windows must be disabled so that Linux can mount the NTFS partition.
-Go to Control Panel, "Choose what the power buttons do", and disable "Turn on fast startup (recommended)".
+Start windoms, click the "power off" butten in the start menu while holding down the shift key.
 
 Cheap USB drives typically cannot keep up with the I/Os required to run a
 modern operating system. To resolve this issue, the live operating system first
